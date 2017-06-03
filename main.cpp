@@ -12,7 +12,7 @@ This learning aid will enable the user to understand "why" the calculator gives 
 E.g. 9 x 4 = 36 --> the code would be programmed to write something like: "The product of these numbers is 36 because
 9 lots of 4 pieces equals 36 pieces in total". */
 
-    cout << "Please choose a language \n";
+    cout << "Please choose a language \n"; //NB: Use array [Eng, Esp] to select
 
 /* I want the user to have two options to click on, English and Spanish (Espanol).
 If they click on English, I want the computer to use the code that I have assigned to/written in English (and vice versa).
